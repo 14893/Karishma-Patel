@@ -1,8 +1,9 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,35:1e3a8a,70:0ea5e9,100:22c55e&text=Karishma%20Patel&fontColor=ffffff&fontAlignY=38&desc=Senior%20iOS%20Developer%20%7C%20Swift%20%7C%20SwiftUI%20%7C%20AI-Ready%20Mobile%20Engineering&descAlignY=58" alt="Karishma Patel banner" />
-</p>
+<h1 align="center">Hi, I'm Karishma Patel 👋</h1>
+<h3 align="center">Senior iOS Developer | Swift • SwiftUI • UIKit • BLE • AI-Ready Mobile Engineering</h3>
 
-<h3 align="center">Building reliable iOS products with strong architecture, measurable performance, and practical AI integration.</h3>
+<p align="center">
+  I build scalable, reliable and user-centric iOS products with clean architecture and measurable impact.
+</p>
 
 <p align="center">
   <a href="mailto:karishmapatel1493@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-informational?style=flat-square&logo=gmail" alt="Email" /></a>
@@ -10,66 +11,109 @@
   <a href="https://github.com/14893"><img src="https://img.shields.io/badge/GitHub-14893-black?style=flat-square&logo=github" alt="GitHub" /></a>
 </p>
 
-## About Me
+---
 
-I am a Senior iOS Developer with 10+ years of experience delivering production-grade apps across healthcare, IoT, and consumer platforms.
+## 👩‍💻 About Me
 
-My core strength is turning complex product requirements into stable, scalable iOS systems using Swift, SwiftUI, UIKit, and clean architecture patterns. I care deeply about code quality, delivery velocity, and long-term maintainability.
+I am a Senior iOS Developer with 10+ years of experience across healthcare, IoT and consumer applications.
 
-## What I Bring
+My core strength is transforming complex requirements into stable, scalable iOS systems using Swift, SwiftUI, UIKit, MVVM and Clean Architecture. I enjoy solving product challenges with technical clarity, strong delivery ownership and long-term maintainability.
 
-- End-to-end iOS ownership: architecture, implementation, release, and post-production stability
-- Strong expertise in BLE-driven healthcare workflows and device communication reliability
-- Hands-on leadership: mentoring developers, running code reviews, and enabling team quality standards
-- Performance-first engineering with measurable improvements in crash rate and app responsiveness
-- Product collaboration mindset with Backend, QA, Design, and Product teams in Agile delivery
+---
 
-## Technical Stack
+## 🧰 Tech Stack
 
-- Languages: `Swift`, `Objective-C`
-- UI: `SwiftUI`, `UIKit`, `Auto Layout`
-- Architecture: `MVC`, `MVVM`, `VIPER`, `Clean Architecture`
-- Frameworks: `Combine`, `CoreBluetooth`, `HealthKit`, `Core Data`, `CoreGraphics`
-- Networking: `REST APIs`, `JSON`, `URLSession`, `Alamofire`
-- Testing & Quality: `XCTest`, `UI Tests`, `TDD`, `SwiftLint`
-- Tooling: `Xcode`, `GitHub`, `Jira`, `Firebase Crashlytics`, `Sentry`, `Instruments`, `SPM`, `CocoaPods`
-- Delivery: `TestFlight`, `App Store Release`, `GitHub Actions`, `Xcode Cloud`
+- **Languages:** Swift, Objective-C
+- **UI Frameworks:** SwiftUI, UIKit, Auto Layout
+- **Architecture:** MVC, MVVM, VIPER, Clean Architecture
+- **Apple Frameworks:** Combine, CoreBluetooth, HealthKit, Core Data, CoreGraphics
+- **Networking:** REST APIs, JSON, URLSession, Alamofire
+- **Testing & Quality:** XCTest, UI Tests, TDD, SwiftLint
+- **Tooling & Delivery:** Xcode, GitHub, Jira, Firebase Crashlytics, Sentry, Instruments, TestFlight, Xcode Cloud, GitHub Actions
 
-## AI Focus (Current Market Direction)
+---
 
-I am actively focused on **AI-first product engineering** for mobile ecosystems.
+## 🚀 Featured Projects
 
-- Learning and building with AI agents for real-world engineering workflows
-- Designing and integrating customizable AI chat experiences inside apps
-- Exploring practical, key-based AI integrations with cost-aware and scalable architecture
-- Preparing reusable foundations for an intelligent developer platform (IDS) with modular services
+### 1. HealthCoach App (Healthcare IoT & BLE)
+- Led end-to-end architecture and development
+- Integrated BLE medical devices and HealthKit workflows
+- Improved reliability with robust data sync strategies
+- 📱 [View on App Store](https://apps.apple.com/in/app/sanitashealthcoach/id981507162)
 
-This direction helps bridge my strong iOS systems background with the growing demand for agentic, AI-enabled product experiences.
+### 2. Veroval medi.connect ECG + BP
+- Re-architected with MVVM for improved engineering velocity
+- Enhanced BLE communication and user sync experience
+- Reduced stability issues with proactive debugging
+- 📱 [View on App Store](https://apps.apple.com/fr/app/veroval-mediconnect-ecg-bp/id1671499431?l=en-GB)
 
-## Selected App Store Products
+### 3. HealthForYou
+- Contributed to UI/UX and performance modernization
+- Added multi-device BLE integrations and better usability
+- 📱 [View on App Store](https://apps.apple.com/us/app/healthforyou/id1281514514)
 
-- [Sanitas HealthCoach](https://apps.apple.com/in/app/sanitashealthcoach/id981507162)
-- [Veroval medi.connect ECG + BP](https://apps.apple.com/fr/app/veroval-mediconnect-ecg-bp/id1671499431?l=en-GB)
-- [HealthForYou](https://apps.apple.com/us/app/healthforyou/id1281514514)
-- [Beurer HealthManager](https://apps.apple.com/us/app/beurer-healthmanager/id762342281)
-- [SerenityTherapists](https://apps.apple.com/in/app/serenitytherapists/id1213802798)
+### 4. Beurer HealthManager
+- Improved BLE-based integrations and product stability
+- Worked on health trends, diary flow and Apple Health sync
+- 📱 [View on App Store](https://apps.apple.com/us/app/beurer-healthmanager/id762342281)
 
-## Impact Highlights
+### 5. SerenityTherapists
+- Built booking, scheduling and service management improvements
+- Delivered smoother API-driven mobile workflows
+- 📱 [View on App Store](https://apps.apple.com/in/app/serenitytherapists/id1213802798)
 
-- Improved BLE sync reliability by **30-40%** through better scanning and protocol handling
-- Reduced crash rates by **40%** via profiling, diagnostics, and stability-focused refactoring
-- Improved app performance by **25%** through UI/data flow optimization and technical cleanup
-- Led/mentored iOS team members while maintaining release quality across production apps
+---
 
-## Beyond Public Repos
+## 🏆 Achievements & Certifications
 
-A significant part of my work has been shipped in private/client codebases, including enterprise and healthcare products that are not publicly visible on GitHub. This profile highlights representative technical depth, delivery quality, and product impact.
+- Improved BLE sync reliability by **30-40%**
+- Reduced app crash rates by **40%**
+- Improved app performance by **25%**
+- Received **Commitment & Dedication Award (Feb 2025)**
+- Consistent ownership of production-grade App Store releases
 
-## Let’s Collaborate
+---
 
-I am open to collaborating on:
+## 🤖 AI Focus (Current Market Direction)
 
-- iOS architecture modernization (UIKit to SwiftUI, MVVM/Clean refactors)
-- BLE or connected-device healthcare applications
-- AI-enabled mobile features and custom chat integrations
-- Performance, quality, and release-process improvements for production apps
+I am actively building my capabilities in AI-first engineering for mobile products:
+
+- Learning and implementing **AI agents** for practical development workflows
+- Building **custom AI chatbox integrations** for real product use cases
+- Exploring **key-based, cost-aware AI integration architecture**
+- Designing foundations for my own **intelligent developer system (IDS)**
+
+This direction aligns my deep iOS expertise with today’s demand for agentic and AI-enabled applications.
+
+---
+
+## 💡 Quote I Live By
+
+> "Great products are built when clean engineering meets real user empathy."
+
+---
+
+## 🤝 Open to Opportunities
+
+I am open to impactful roles and collaborations in:
+
+- Senior / Lead iOS Development
+- Healthcare and BLE-connected applications
+- AI-enabled mobile product engineering
+- Architecture modernization and performance optimization
+
+---
+
+## ❤️ Support My Work
+
+If you find my work valuable:
+
+- Follow me on [GitHub](https://github.com/14893)
+- Connect on [LinkedIn](https://www.linkedin.com/in/karishma-patel-587917a2/)
+- Reach out at [karishmapatel1493@gmail.com](mailto:karishmapatel1493@gmail.com)
+
+---
+
+<p align="center">
+  <i>"Build with purpose. Scale with quality. Evolve with AI."</i>
+</p>
