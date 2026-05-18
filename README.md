@@ -1,14 +1,13 @@
-<h1 align="center">Hi, I'm Karishma Patel 👋</h1>
-<h3 align="center">Senior iOS Developer | Swift • SwiftUI • UIKit • BLE • AI-Ready Mobile Engineering</h3>
-
 <p align="center">
-  I build scalable, reliable and user-centric iOS products with clean architecture and measurable impact.
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f172a,25:1d4ed8,55:0ea5e9,100:22c55e&text=Karishma%20Patel&fontColor=ffffff&fontAlignY=40&desc=Senior%20iOS%20Developer%20%7C%20Swift%20%7C%20SwiftUI%20%7C%20BLE%20%7C%20AI-Ready%20Engineering&descAlignY=62&animation=fadeIn" alt="Karishma Patel banner" />
 </p>
 
+<h3 align="center">Building reliable iOS products with clean architecture, measurable outcomes, and practical AI integration.</h3>
+
 <p align="center">
-  <a href="mailto:karishmapatel1493@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-informational?style=flat-square&logo=gmail" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/karishma-patel-587917a2/"><img src="https://img.shields.io/badge/LinkedIn-Karishma%20Patel-blue?style=flat-square&logo=linkedin" alt="LinkedIn" /></a>
-  <a href="https://github.com/14893"><img src="https://img.shields.io/badge/GitHub-14893-black?style=flat-square&logo=github" alt="GitHub" /></a>
+  <a href="mailto:karishmapatel1493@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-informational?style=for-the-badge&logo=gmail" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/karishma-patel-587917a2/"><img src="https://img.shields.io/badge/LinkedIn-Karishma%20Patel-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
+  <a href="https://github.com/14893"><img src="https://img.shields.io/badge/GitHub-14893-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
 </p>
 
 ---
@@ -23,13 +22,32 @@ My core strength is transforming complex requirements into stable, scalable iOS 
 
 ## 🧰 Tech Stack
 
-- **Languages:** Swift, Objective-C
-- **UI Frameworks:** SwiftUI, UIKit, Auto Layout
-- **Architecture:** MVC, MVVM, VIPER, Clean Architecture
-- **Apple Frameworks:** Combine, CoreBluetooth, HealthKit, Core Data, CoreGraphics
-- **Networking:** REST APIs, JSON, URLSession, Alamofire
-- **Testing & Quality:** XCTest, UI Tests, TDD, SwiftLint
-- **Tooling & Delivery:** Xcode, GitHub, Jira, Firebase Crashlytics, Sentry, Instruments, TestFlight, Xcode Cloud, GitHub Actions
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=swift,objectivec,firebase,github,git,figma,postman" alt="Core tools" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/SwiftUI-Modern%20UI-0D96F6?style=flat-square&logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/UIKit-Production%20UI-1F6FEB?style=flat-square&logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/MVVM-Architecture-0E7490?style=flat-square" />
+  <img src="https://img.shields.io/badge/Clean%20Architecture-Scalable-0F766E?style=flat-square" />
+  <img src="https://img.shields.io/badge/VIPER-Pattern-155E75?style=flat-square" />
+  <img src="https://img.shields.io/badge/Combine-Reactive-2563EB?style=flat-square" />
+  <img src="https://img.shields.io/badge/CoreBluetooth-BLE-0284C7?style=flat-square" />
+  <img src="https://img.shields.io/badge/HealthKit-Health%20Data-0EA5E9?style=flat-square" />
+  <img src="https://img.shields.io/badge/Core%20Data-Persistence-0891B2?style=flat-square" />
+  <img src="https://img.shields.io/badge/REST%20API-Integration-0369A1?style=flat-square" />
+  <img src="https://img.shields.io/badge/URLSession-Networking-075985?style=flat-square" />
+  <img src="https://img.shields.io/badge/Alamofire-HTTP%20Client-0C4A6E?style=flat-square" />
+  <img src="https://img.shields.io/badge/XCTest-Testing-1D4ED8?style=flat-square" />
+  <img src="https://img.shields.io/badge/UI%20Tests-Automation-1E40AF?style=flat-square" />
+  <img src="https://img.shields.io/badge/SwiftLint-Code%20Quality-1E3A8A?style=flat-square" />
+  <img src="https://img.shields.io/badge/Crashlytics-Stability-1D4ED8?style=flat-square&logo=firebase" />
+  <img src="https://img.shields.io/badge/Sentry-Monitoring-334155?style=flat-square" />
+  <img src="https://img.shields.io/badge/TestFlight-Release%20QA-0F172A?style=flat-square&logo=apple" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-CI%2FCD-111827?style=flat-square&logo=githubactions" />
+  <img src="https://img.shields.io/badge/Xcode%20Cloud-Apple%20CI-1F2937?style=flat-square" />
+</p>
 
 ---
 
