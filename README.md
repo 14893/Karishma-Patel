@@ -1,211 +1,75 @@
-# SwiftUI + UIKit Mix App
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,35:1e3a8a,70:0ea5e9,100:22c55e&text=Karishma%20Patel&fontColor=ffffff&fontAlignY=38&desc=Senior%20iOS%20Developer%20%7C%20Swift%20%7C%20SwiftUI%20%7C%20AI-Ready%20Mobile%20Engineering&descAlignY=58" alt="Karishma Patel banner" />
+</p>
 
-A modern iOS application demonstrating **SwiftUI**, **UIKit integration**, **MVVM architecture**, **Combine framework**, **async/await**, and **lazy loading** with public API integration.
+<h3 align="center">Building reliable iOS products with strong architecture, measurable performance, and practical AI integration.</h3>
 
-## 📱 Features
+<p align="center">
+  <a href="mailto:karishmapatel1493@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-informational?style=flat-square&logo=gmail" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/karishma-patel-587917a2/"><img src="https://img.shields.io/badge/LinkedIn-Karishma%20Patel-blue?style=flat-square&logo=linkedin" alt="LinkedIn" /></a>
+  <a href="https://github.com/14893"><img src="https://img.shields.io/badge/GitHub-14893-black?style=flat-square&logo=github" alt="GitHub" /></a>
+</p>
 
-- ✅ **MVVM Architecture** - Clean separation of concerns
-- ✅ **SwiftUI Views** - Modern declarative UI
-- ✅ **UIKit Integration** - Seamless mixing of UIKit and SwiftUI
-- ✅ **Combine Framework** - Reactive programming with publishers
-- ✅ **Async/Await** - Modern concurrency patterns
-- ✅ **Lazy Loading** - Efficient pagination (10 items at a time)
-- ✅ **Image Loading** - AsyncImage with proper error handling
-- ✅ **Public API Integration** - JSONPlaceholder API for posts and photos
-- ✅ **Dependency Injection** - Testable architecture
+## About Me
 
-## 🏗️ Architecture
+I am a Senior iOS Developer with 10+ years of experience delivering production-grade apps across healthcare, IoT, and consumer platforms.
 
-### MVVM Pattern
-- **Models**: `Post`, `Photo` - Data structures
-- **ViewModels**: `PostListViewModel`, `PhotoListViewModel` - Business logic and state management
-- **Views**: SwiftUI views for UI presentation
-- **Networking**: `APIClient` - API service layer
+My core strength is turning complex product requirements into stable, scalable iOS systems using Swift, SwiftUI, UIKit, and clean architecture patterns. I care deeply about code quality, delivery velocity, and long-term maintainability.
 
-### Project Structure
-```
-SwiftUIDemoApp/
-├── MixUIKitSwiftUIApp.swift    # App entry point
-├── Models/
-│   ├── Post.swift              # Post data model
-│   └── Photo.swift             # Photo data model
-├── ViewModels/
-│   ├── PostListViewModel.swift # Posts view model (Combine + async/await)
-│   └── PhotoListViewModel.swift # Photos view model with lazy loading
-├── Views/
-│   ├── PostListView.swift      # Main posts list view
-│   └── PhotoListView.swift     # Photos list with images
-├── Networking/
-│   └── APIClient.swift         # API client (async/await + Combine)
-└── UIKit/
-    └── PostsViewController.swift # UIKit view controller + SwiftUI bridge
-```
+## What I Bring
 
-## 🚀 Getting Started
+- End-to-end iOS ownership: architecture, implementation, release, and post-production stability
+- Strong expertise in BLE-driven healthcare workflows and device communication reliability
+- Hands-on leadership: mentoring developers, running code reviews, and enabling team quality standards
+- Performance-first engineering with measurable improvements in crash rate and app responsiveness
+- Product collaboration mindset with Backend, QA, Design, and Product teams in Agile delivery
 
-### Prerequisites
-- Xcode 14.0 or later
-- iOS 15.0 or later
-- Swift 5.7 or later
+## Technical Stack
 
-### Setup Instructions
+- Languages: `Swift`, `Objective-C`
+- UI: `SwiftUI`, `UIKit`, `Auto Layout`
+- Architecture: `MVC`, `MVVM`, `VIPER`, `Clean Architecture`
+- Frameworks: `Combine`, `CoreBluetooth`, `HealthKit`, `Core Data`, `CoreGraphics`
+- Networking: `REST APIs`, `JSON`, `URLSession`, `Alamofire`
+- Testing & Quality: `XCTest`, `UI Tests`, `TDD`, `SwiftLint`
+- Tooling: `Xcode`, `GitHub`, `Jira`, `Firebase Crashlytics`, `Sentry`, `Instruments`, `SPM`, `CocoaPods`
+- Delivery: `TestFlight`, `App Store Release`, `GitHub Actions`, `Xcode Cloud`
 
-1. **Create a new Xcode project:**
-   - Open Xcode
-   - Create a new iOS App project
-   - Choose **SwiftUI** for Interface
-   - Choose **SwiftUI App** for Lifecycle
-   - Name it `MixUIKitSwiftUIApp` (or any name you prefer)
+## AI Focus (Current Market Direction)
 
-2. **Add the source files:**
-   - Copy all files from this repository into your Xcode project
-   - Maintain the folder structure (Models, ViewModels, Views, Networking, UIKit)
-   - Make sure all files are added to your app target
+I am actively focused on **AI-first product engineering** for mobile ecosystems.
 
-3. **Update the App file:**
-   - Replace the auto-generated `App` file with `MixUIKitSwiftUIApp.swift`
-   - Ensure there's only **one** `@main` entry point
+- Learning and building with AI agents for real-world engineering workflows
+- Designing and integrating customizable AI chat experiences inside apps
+- Exploring practical, key-based AI integrations with cost-aware and scalable architecture
+- Preparing reusable foundations for an intelligent developer platform (IDS) with modular services
 
-4. **Build and Run:**
-   - Select a simulator or device
-   - Press ⌘R to build and run
+This direction helps bridge my strong iOS systems background with the growing demand for agentic, AI-enabled product experiences.
 
-## 📖 Usage
+## Selected App Store Products
 
-### Main Features
+- [Sanitas HealthCoach](https://apps.apple.com/in/app/sanitashealthcoach/id981507162)
+- [Veroval medi.connect ECG + BP](https://apps.apple.com/fr/app/veroval-mediconnect-ecg-bp/id1671499431?l=en-GB)
+- [HealthForYou](https://apps.apple.com/us/app/healthforyou/id1281514514)
+- [Beurer HealthManager](https://apps.apple.com/us/app/beurer-healthmanager/id762342281)
+- [SerenityTherapists](https://apps.apple.com/in/app/serenitytherapists/id1213802798)
 
-1. **Posts List Screen**
-   - Toggle between **Async/Await** and **Combine** loading styles
-   - View list of posts from JSONPlaceholder API
-   - Navigate to post details
-   - Navigate to UIKit screen
-   - Navigate to Photos list
+## Impact Highlights
 
-2. **Photos List Screen**
-   - View photos with thumbnails
-   - **Lazy loading**: Loads 10 items at a time as you scroll
-   - Automatic pagination when reaching the bottom
+- Improved BLE sync reliability by **30-40%** through better scanning and protocol handling
+- Reduced crash rates by **40%** via profiling, diagnostics, and stability-focused refactoring
+- Improved app performance by **25%** through UI/data flow optimization and technical cleanup
+- Led/mentored iOS team members while maintaining release quality across production apps
 
-3. **UIKit Integration**
-   - UIKit view controller embedded in SwiftUI
-   - Navigate from UIKit back to SwiftUI detail view
-   - Demonstrates bidirectional integration
+## Beyond Public Repos
 
-## 🔧 Technical Details
+A significant part of my work has been shipped in private/client codebases, including enterprise and healthcare products that are not publicly visible on GitHub. This profile highlights representative technical depth, delivery quality, and product impact.
 
-### APIs Used
-- **Posts API**: `https://jsonplaceholder.typicode.com/posts`
-- **Photos API**: `https://jsonplaceholder.typicode.com/photos`
+## Let’s Collaborate
 
-### Key Technologies
+I am open to collaborating on:
 
-- **SwiftUI**: Declarative UI framework
-- **UIKit**: Traditional iOS UI framework
-- **Combine**: Reactive programming framework
-- **Async/Await**: Modern Swift concurrency
-- **MVVM**: Model-View-ViewModel architecture pattern
-- **URLSession**: Network requests
-- **AsyncImage**: SwiftUI image loading
-
-### Code Highlights
-
-#### Async/Await Example
-```swift
-func loadPostsAsync() {
-    Task {
-        await loadPostsWithAsyncAwait()
-    }
-}
-
-private func loadPostsWithAsyncAwait() async {
-    isLoading = true
-    do {
-        let result = try await apiClient.fetchPosts()
-        posts = result
-    } catch {
-        errorMessage = "Failed to load posts: \(error.localizedDescription)"
-    }
-    isLoading = false
-}
-```
-
-#### Combine Example
-```swift
-func loadPostsWithCombine() {
-    isLoading = true
-    apiClient.fetchPostsPublisher()
-        .sink { [weak self] completion in
-            // Handle completion
-        } receiveValue: { [weak self] posts in
-            self?.posts = posts
-        }
-        .store(in: &cancellables)
-}
-```
-
-#### Lazy Loading
-```swift
-func loadMoreIfNeeded(currentItem: Photo?) {
-    guard let currentItem = currentItem,
-          !visiblePhotos.isEmpty else { return }
-    
-    guard let index = visiblePhotos.firstIndex(where: { $0.id == currentItem.id }) else { return }
-    
-    let thresholdIndex = visiblePhotos.index(visiblePhotos.endIndex, offsetBy: -1)
-    if index == thresholdIndex {
-        loadMore() // Load next 10 items
-    }
-}
-```
-
-#### UIKit in SwiftUI
-```swift
-struct UIKitContainerView: UIViewControllerRepresentable {
-    @StateObject private var viewModel = PostListViewModel()
-    
-    func makeUIViewController(context: Context) -> UINavigationController {
-        if viewModel.posts.isEmpty {
-            viewModel.loadPostsAsync()
-        }
-        let vc = PostsViewController()
-        vc.posts = viewModel.posts
-        return UINavigationController(rootViewController: vc)
-    }
-    
-    func updateUIViewController(_ uiViewController: UINavigationController, context: Context) {
-        // Update when viewModel.posts changes
-    }
-}
-```
-
-## 🎯 Best Practices Demonstrated
-
-- ✅ **SOLID Principles**: Single Responsibility, Dependency Inversion
-- ✅ **Dependency Injection**: ViewModels accept dependencies via initializer
-- ✅ **Error Handling**: Proper error states and user feedback
-- ✅ **Loading States**: Loading indicators during API calls
-- ✅ **Memory Management**: Weak references in Combine subscriptions
-- ✅ **Main Actor**: Proper thread safety with `@MainActor`
-- ✅ **Empty State Handling**: Guards against crashes with empty arrays
-
-## 📝 Notes
-
-- The app uses public APIs that don't require authentication
-- All data is fetched from JSONPlaceholder (test data)
-- Images are loaded asynchronously with proper error handling
-- The lazy loading implementation loads 10 items at a time for optimal performance
-
-## 👨‍💻 Author
-
-**Karishma Patel**
-- GitHub: [@14893](https://github.com/14893)
-- LinkedIn: [Karishma Patel](https://linkedin.com/in/Karishma Patel)
-- Email: karishmapatel1493@gmail.com
-
-## 📄 License
-
-This project is open source and available for learning purposes.
-
----
-
-**Built with ❤️ using SwiftUI, UIKit, Combine, and async/await**
+- iOS architecture modernization (UIKit to SwiftUI, MVVM/Clean refactors)
+- BLE or connected-device healthcare applications
+- AI-enabled mobile features and custom chat integrations
+- Performance, quality, and release-process improvements for production apps
